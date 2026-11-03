@@ -2,15 +2,15 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-02`
+### Latest Update: `2026-11-03`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.LG` | [Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches](http://arxiv.org/abs/2610.42139v1) | In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches... |
-| `cs.CR` | [Beyond Smart Homes: Characterizing IoT Vulnerabilities Across Sectors, Vendors, and Products](http://arxiv.org/abs/2610.42032v1) | The Internet of Things (IoT) has expanded beyond consumer smart homes to sectors, such as industrial systems, healthcare, and smar... |
-| `cs.CR` | [SecPO: Principled Adversarial Training for Prompt Injection Security](http://arxiv.org/abs/2610.41998v1) | Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to ... |
-| `cs.DC` | [Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads](http://arxiv.org/abs/2610.41919v1) | We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference ... |
-| `cs.DC` | [Decentralized Dynamic Stable Matching](http://arxiv.org/abs/2610.41912v1) | We study decentralized computation of the player-optimal stable matching (POSM) with unannounced player arrivals and departures. W... |
+| `cs.DS` | [A GPU Engine for Sparse Matrix-Vector Products on $k^2$-Tree-Compressed Graphs](http://arxiv.org/abs/2611.03610v1) | The $k^2$-tree is a compact representation of Boolean matrices: it stores the recursive hierarchy of their non-empty submatrices, ... |
+| `cs.IT` | [Quantum Private Information Retrieval on Forests](http://arxiv.org/abs/2611.03558v1) | We consider the problem of graph private information retrieval (PIR) in the quantum setting. We focus on a specific type of graphs... |
+| `cs.CR` | [MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study](http://arxiv.org/abs/2611.03555v1) | The Model Context Protocol (MCP) lets agentic AI frameworks connect language models to external tool providers, but it carries att... |
+| `cs.SE` | [DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?](http://arxiv.org/abs/2611.03523v1) | LLM agents show strong potential in software engineering tasks such as competitive programming and code synthesis. Existing benchm... |
+| `cs.CR` | [Attacking P2P Networks: Liveness Attacks on the GossipSub and DOG Gossip Protocols](http://arxiv.org/abs/2611.03509v1) | Peer-to-peer (P2P) networks form the communication layer of large decentralized systems such as Ethereum, and the correctness of h... |
 
 ---
 *Updated automatically via GitHub Actions.*
