@@ -2,15 +2,15 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-03`
+### Latest Update: `2026-11-04`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.DS` | [A GPU Engine for Sparse Matrix-Vector Products on $k^2$-Tree-Compressed Graphs](http://arxiv.org/abs/2611.03610v1) | The $k^2$-tree is a compact representation of Boolean matrices: it stores the recursive hierarchy of their non-empty submatrices, ... |
-| `cs.IT` | [Quantum Private Information Retrieval on Forests](http://arxiv.org/abs/2611.03558v1) | We consider the problem of graph private information retrieval (PIR) in the quantum setting. We focus on a specific type of graphs... |
-| `cs.CR` | [MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study](http://arxiv.org/abs/2611.03555v1) | The Model Context Protocol (MCP) lets agentic AI frameworks connect language models to external tool providers, but it carries att... |
-| `cs.SE` | [DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?](http://arxiv.org/abs/2611.03523v1) | LLM agents show strong potential in software engineering tasks such as competitive programming and code synthesis. Existing benchm... |
-| `cs.CR` | [Attacking P2P Networks: Liveness Attacks on the GossipSub and DOG Gossip Protocols](http://arxiv.org/abs/2611.03509v1) | Peer-to-peer (P2P) networks form the communication layer of large decentralized systems such as Ethereum, and the correctness of h... |
+| `quant-ph` | [Quantum Advantage has Few Complexity Implications](http://arxiv.org/abs/2611.05303v1) | We consider the complexity implications of proofs of quantumness and (quantum verifier) oblivious state preparation. We show that ... |
+| `cs.OS` | [ToolSched: Resource-Efficient Tool Scheduling for Shared-Host LLM Agents](http://arxiv.org/abs/2611.05269v1) | Local LLM agents often work on shared hosts. Unlike multi-tenant cloud clusters, these hosts often have tightly bounded memory, CP... |
+| `cs.DC` | [Parallel Sparse Identification of Nonlinear Dynamics in Python: Task- and Data-Parallel SINDy with Numba, OpenMP, Threads and Multiprocessing for the Lorenz and Rössler Systems](http://arxiv.org/abs/2611.05215v1) | The sparse identification of nonlinear dynamics (SINDy) recovers interpretable governing equations from time-series data by sparse... |
+| `cs.DC` | [What Sets the Serving Speed of Looped Language Models? Measurements and Optimizations Graded by Exactness](http://arxiv.org/abs/2611.05150v1) | Looped language models apply one block of layers many times per token, so a serving engine pays every per-layer overhead once per ... |
+| `cs.CC` | [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v1) | Can deterministic information loss yield post-quantum pseudorandomness with $TC^0$ evaluation? We show that deterministic rounding... |
 
 ---
 *Updated automatically via GitHub Actions.*
