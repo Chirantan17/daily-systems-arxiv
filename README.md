@@ -2,15 +2,15 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-05`
+### Latest Update: `2026-11-06`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.CR` | [Integrated Identity Protection for Semantic Communications in Embodied IoT Systems](http://arxiv.org/abs/2611.06788v1) | Embodied Internet of Things (IoT) systems are promoting the adoption of task-oriented semantic communication (SemCom), in which th... |
-| `cs.DC` | [flash-comm: Self-Synchronizing Collective Communication for LLM Decoding](http://arxiv.org/abs/2611.06634v1) | We present flash-comm, a communication library that achieves efficient transport for LLM decoding by fusing readiness synchronizat... |
-| `cs.DC` | [AtomicFaaS: Offloading Side-Effect Compensation to the Serverless Platform](http://arxiv.org/abs/2611.06601v1) | Function-as-a-Service (FaaS) simplifies distributed application development by offloading operational concerns to the platform, bu... |
-| `cs.CR` | [Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains](http://arxiv.org/abs/2611.06585v1) | AI agents rely on third-party tools, such as Model Context Protocol (MCP) servers, whose publishers can be authenticated and whose... |
-| `cs.AI` | [Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models](http://arxiv.org/abs/2611.06553v1) | Large language models (LLMs) undergo safety alignment to prevent harmful generations, yet they remain vulnerable to jailbreak atta... |
+| `cs.SE` | [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](http://arxiv.org/abs/2611.08442v1) | Standardised post-quantum cryptography (PQC) is critical for protecting software systems against future quantum threats, but stand... |
+| `cs.CR` | [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](http://arxiv.org/abs/2611.08383v1) | Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one ki... |
+| `cs.CR` | [SensorGuard-RV: Sensor-to-Register Data Protection for Resource-Constrained RISC-V Devices](http://arxiv.org/abs/2611.08380v1) | Embedded systems rely on sensor measurements that traverse a complex hardware-firmware stack (e.g. peripheral interfaces, communic... |
+| `cs.LG` | [StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference](http://arxiv.org/abs/2611.08363v1) | Quantization reduces the memory and bandwidth demands of large language model (LLM) inference but can degrade accuracy; offloading... |
+| `cs.CR` | [LABBA: LLM-Assisted Behavioral Biometric Authentication](http://arxiv.org/abs/2611.08343v1) | Behavioral biometrics have emerged as a promising complement to traditional physiological biometrics by leveraging dynamic human c... |
 
 ---
 *Updated automatically via GitHub Actions.*
