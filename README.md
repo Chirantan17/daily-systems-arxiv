@@ -2,15 +2,15 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-10`
+### Latest Update: `2026-11-11`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.AI` | [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](http://arxiv.org/abs/2611.12865v1) | Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution r... |
-| `cs.CR` | [TUTTI: Parallel CKKS Bootstrapping in under 3 ms on CPU](http://arxiv.org/abs/2611.12854v1) | This paper introduces TUTTI, a new CKKS bootstrapping procedure that outperforms previous low-latency solutions in multi-threaded ... |
-| `cs.DC` | [Contention Resolution with a Fast-but-Fickle Channel](http://arxiv.org/abs/2611.12843v1) | The contention-resolution problem studies how $n$ devices share a communication channel without centralized coordination. Classica... |
-| `cs.CR` | [Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense](http://arxiv.org/abs/2611.12807v1) | Low-Rank Adaptation (LoRA) is the standard paradigm for customizing large language models, yet third-party LoRA adapters pose a su... |
-| `cs.CR` | [DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection](http://arxiv.org/abs/2611.12760v1) | Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses com... |
+| `cs.CR` | [How Well Do SAST Tools Work Across Languages? An Empirical Study Using OCPP Implementations](http://arxiv.org/abs/2611.14362v1) | As electric vehicle (EV) adoption accelerates globally, securing electric vehicle charging station (EVCS) software becomes increas... |
+| `cs.OS` | [EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](http://arxiv.org/abs/2611.14356v1) | Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a r... |
+| `cs.CR` | [MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters](http://arxiv.org/abs/2611.14317v1) | Data spaces like the European Health Data Space (EHDS) require the protection of sensitive data in studies during the data's proce... |
+| `cs.CV` | [Location Matters: Sparse Latent-Variance Attacks for Face Privacy against Diffusion Personalization](http://arxiv.org/abs/2611.14254v1) | Text-to-image diffusion models can learn and reproduce an individual's identity from only a few reference photos, creating risks o... |
+| `math.OC` | [On Federated Averaging with Partial Participation under a General Variance Condition](http://arxiv.org/abs/2611.14239v1) | In this paper, we study the convergence of Federated Averaging (FedAvg) with partial participation under a general variance condit... |
 
 ---
 *Updated automatically via GitHub Actions.*
