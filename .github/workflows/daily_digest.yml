@@ -1,22 +1,21 @@
-name: Daily ArXiv Digest
+﻿name: Daily ArXiv Digest
 
 on:
   schedule:
-    # Runs automatically once every day at 04:15 UTC (9:45 AM IST)
     - cron: '15 4 * * *'
-  workflow_dispatch: # Allows manual trigger for testing
+  workflow_dispatch:
 
 jobs:
   update-digest:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Run ArXiv fetcher
         run: python scripts/fetch_papers.py
@@ -26,5 +25,4 @@ jobs:
           git config --global user.name "Chirantan Ghosh"
           git config --global user.email "chirantanghosh1745@gmail.com"
           git add README.md
-          # Only commit if there are actual diffs
           git diff --quiet && git diff --staged --quiet || (git commit -m "ci(digest): auto-update research digest for $(date +'%Y-%m-%d')" && git push)
