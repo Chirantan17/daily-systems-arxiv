@@ -2,17 +2,17 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-17`
+### Latest Update: `2026-11-18`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.CR` | [The Provenance-Privacy Paradox: Can Private Cloud Compute (PCC) Prove That Apple Reference Images Are Not Used for Learning?](http://arxiv.org/abs/2611.21590v1) | Apple Reference Image (ARI) combines camera-sensor signatures, Secure Enclave attestation (SEP), cryptographic timestamp bounds, P... |
-| `cs.LG` | [CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts](http://arxiv.org/abs/2611.21584v1) | Training with MXFP4, a 4-bit microscaling format, is non-deterministic: identical inputs can produce different results across para... |
-| `cs.CR` | [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](http://arxiv.org/abs/2611.21579v1) | Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vul... |
-| `cs.CR` | [When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents](http://arxiv.org/abs/2611.21577v1) | Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protoc... |
-| `cs.CR` | [TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings](http://arxiv.org/abs/2611.21548v1) | Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We pres... |
+| `cs.LG` | [Distortion-Free Semantic Watermarks for Black-Box Generative Models](http://arxiv.org/abs/2611.23208v1) | We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative... |
+| `cs.DC` | [SPICE: Sparse Parameter Gossip for LLM Pretraining](http://arxiv.org/abs/2611.23053v1) | Pretraining language models across geographically distributed resources requires communication-efficient methods that operate unde... |
+| `cs.LG` | [Storing the Gemma 4 K=V Cache Once: Exact Global-KV Memory Savings in a Paged Serving Engine with Unchanged Attention Kernels](http://arxiv.org/abs/2611.23035v1) | In the global attention layers of Gemma 4 31B, the value is the normalized key projection, and the key is the value scaled by a fi... |
+| `cs.AR` | [Dissecting the GPU Load/Store Unit and Exposing Its Security Risks](http://arxiv.org/abs/2611.23022v1) | GPUs are the main platform for large-scale machine learning and power the largest supercomputers. Their load/store units (LSUs) of... |
+| `cs.CR` | [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](http://arxiv.org/abs/2611.22971v1) | Safety benchmarks for computer-use agents (CUAs) place the harm either in the intent of the task or on a single screen: a maliciou... |
 
 ---
 *Updated automatically via GitHub Actions.*
 
-*Last checked: `2026-11-17`*
+*Last checked: `2026-11-18`*
