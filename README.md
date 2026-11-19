@@ -2,17 +2,17 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-18`
+### Latest Update: `2026-11-19`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.LG` | [Distortion-Free Semantic Watermarks for Black-Box Generative Models](http://arxiv.org/abs/2611.23208v1) | We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative... |
-| `cs.DC` | [SPICE: Sparse Parameter Gossip for LLM Pretraining](http://arxiv.org/abs/2611.23053v1) | Pretraining language models across geographically distributed resources requires communication-efficient methods that operate unde... |
-| `cs.LG` | [Storing the Gemma 4 K=V Cache Once: Exact Global-KV Memory Savings in a Paged Serving Engine with Unchanged Attention Kernels](http://arxiv.org/abs/2611.23035v1) | In the global attention layers of Gemma 4 31B, the value is the normalized key projection, and the key is the value scaled by a fi... |
-| `cs.AR` | [Dissecting the GPU Load/Store Unit and Exposing Its Security Risks](http://arxiv.org/abs/2611.23022v1) | GPUs are the main platform for large-scale machine learning and power the largest supercomputers. Their load/store units (LSUs) of... |
-| `cs.CR` | [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](http://arxiv.org/abs/2611.22971v1) | Safety benchmarks for computer-use agents (CUAs) place the harm either in the intent of the task or on a single screen: a maliciou... |
+| `cs.DC` | [Mine Locally, Verify Globally: Exact Recovery, Compilation, and Distortion of Mined Temporal Rules](http://arxiv.org/abs/2611.24902v1) | Specification mining extracts temporal rules that describe relationships between events in recorded system traces. Applying these ... |
+| `cs.SI` | ["I Don't Think It's a Scam": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba](http://arxiv.org/abs/2611.24899v1) | When older adults trust scammers despite warnings, families face obstacles to intervention. Complainants aged 60 and older reporte... |
+| `cs.DB` | [DispersedBFT: Bottleneck-Free Primary-Backup Consensus using Dispersed Replication](http://arxiv.org/abs/2611.24833v1) | The advent of blockchains is fueling the development of novel resilient data management systems (RDSs). Typically, these RDSs are ... |
+| `cs.CR` | [LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](http://arxiv.org/abs/2611.24765v1) | Identifying high-impact attack paths in cyber-physical power systems is critical for improving grid resilience. Existing methods t... |
+| `cs.LG` | [Stealing Exact Training Data from Other Clients during Federated Learning](http://arxiv.org/abs/2611.24689v1) | Malicious adversaries can employ gradient inversion attacks to reverse-engineer private data using the model updates of a round in... |
 
 ---
 *Updated automatically via GitHub Actions.*
 
-*Last checked: `2026-11-18`*
+*Last checked: `2026-11-19`*
