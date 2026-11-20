@@ -2,17 +2,17 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-19`
+### Latest Update: `2026-11-20`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.DC` | [Mine Locally, Verify Globally: Exact Recovery, Compilation, and Distortion of Mined Temporal Rules](http://arxiv.org/abs/2611.24902v1) | Specification mining extracts temporal rules that describe relationships between events in recorded system traces. Applying these ... |
-| `cs.SI` | ["I Don't Think It's a Scam": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba](http://arxiv.org/abs/2611.24899v1) | When older adults trust scammers despite warnings, families face obstacles to intervention. Complainants aged 60 and older reporte... |
-| `cs.DB` | [DispersedBFT: Bottleneck-Free Primary-Backup Consensus using Dispersed Replication](http://arxiv.org/abs/2611.24833v1) | The advent of blockchains is fueling the development of novel resilient data management systems (RDSs). Typically, these RDSs are ... |
-| `cs.CR` | [LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](http://arxiv.org/abs/2611.24765v1) | Identifying high-impact attack paths in cyber-physical power systems is critical for improving grid resilience. Existing methods t... |
-| `cs.LG` | [Stealing Exact Training Data from Other Clients during Federated Learning](http://arxiv.org/abs/2611.24689v1) | Malicious adversaries can employ gradient inversion attacks to reverse-engineer private data using the model updates of a round in... |
+| `cs.DC` | [TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1) | Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers mai... |
+| `cs.CR` | [SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research](http://arxiv.org/abs/2611.26601v1) | LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and v... |
+| `quant-ph` | [Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA](http://arxiv.org/abs/2611.26574v1) | Remark: This work is in submission at STOC'27 and thus the full manuscript has been publicly posted on the conference website sinc... |
+| `cs.CR` | [Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs](http://arxiv.org/abs/2611.26569v1) | Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mech... |
+| `cs.CR` | [GEOHunter: Mapping a Generative Engine Optimization Network in the Wild](http://arxiv.org/abs/2611.26564v1) | Generative engines synthesize retrieved web pages into answers, recommendations, and rankings. Generative engine optimization (GEO... |
 
 ---
 *Updated automatically via GitHub Actions.*
 
-*Last checked: `2026-11-19`*
+*Last checked: `2026-11-20`*
