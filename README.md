@@ -2,7 +2,7 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-20`
+### Latest Update: `2026-11-21`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
@@ -15,4 +15,4 @@
 ---
 *Updated automatically via GitHub Actions.*
 
-*Last checked: `2026-11-20`*
+*Last checked: `2026-11-21`*
