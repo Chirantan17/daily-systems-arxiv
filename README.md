@@ -2,17 +2,17 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-23`
+### Latest Update: `2026-11-24`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.CR` | [Your Camera Can Hear You: Side-Channel Acoustic Eavesdropping via Android Camera2 Metadata](http://arxiv.org/abs/2611.27964v1) | To prevent motion sensors from acting as covert microphones, Android 12+ caps SensorManager gyroscope and accelerometer rates at 2... |
-| `cs.CR` | [Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models](http://arxiv.org/abs/2611.27920v1) | Neural network weights are usually treated as opaque artifacts of gradient descent. Recent work on weight space programming, howev... |
-| `cs.CR` | [Metadata-Private Voice Communication over Tor using Post-Quantum Key Encapsulation](http://arxiv.org/abs/2611.27909v1) | Encrypted voice communication systems commonly protect call content but expose significant metadata, including the network identit... |
-| `cs.CV` | [AnimalFarm: Auditing the Generation and Detection of Hateful Images Featuring Anthropomorphic Characters](http://arxiv.org/abs/2611.27905v1) | Anthropomorphic non-human characters have long been used to convey hateful messages targeting human groups, from Nazi-era propagan... |
-| `cs.CR` | [Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks](http://arxiv.org/abs/2611.27860v1) | Benchmarks for AI-based coding agents are a staple of the current AI landscape, because they are the leading way to measure the pe... |
+| `cs.LG` | [Matching Under Metric Privacy](http://arxiv.org/abs/2611.31208v1) | We study how to represent and randomize points in $d$-dimensional Euclidean space to obtain accurate bipartite matchings under met... |
+| `cs.DC` | [Decoupling Faults from Uncertainty: Message-Efficient Byzantine Agreement with Local Predictions](http://arxiv.org/abs/2611.31202v1) | Byzantine Agreement protocols are traditionally designed under worst-case uncertainty about which processes are faulty, coupling t... |
+| `cs.CR` | [Code-Based Message Authentication with Statistical Guarantees via Coordinate Selection and Masking](http://arxiv.org/abs/2611.31178v1) | We study message authentication over a public channel against a computationally unbounded adversary. Motivated by low-complexity a... |
+| `cs.NI` | [Geometry, Reliability, and Spacetime Dynamics of Hyper-Simplex Fractal Networks](http://arxiv.org/abs/2611.31161v1) | Large-scale, delay-tolerant peer-to-peer networks that need strong consistency usually separate naming, routing, consensus, and or... |
+| `cs.CR` | [FATCAT: Fault Injection Attacks Targeting Chip-level Alignment](http://arxiv.org/abs/2611.31129v1) | Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation model... |
 
 ---
 *Updated automatically via GitHub Actions.*
 
-*Last checked: `2026-11-23`*
+*Last checked: `2026-11-24`*
