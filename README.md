@@ -2,17 +2,17 @@
 
 > Automated daily tracker powered by GitHub Actions and the ArXiv API.
 
-### Latest Update: `2026-11-24`
+### Latest Update: `2026-11-25`
 
 | Category | Paper Title | Summary |
 | :--- | :--- | :--- |
-| `cs.LG` | [Matching Under Metric Privacy](http://arxiv.org/abs/2611.31208v1) | We study how to represent and randomize points in $d$-dimensional Euclidean space to obtain accurate bipartite matchings under met... |
-| `cs.DC` | [Decoupling Faults from Uncertainty: Message-Efficient Byzantine Agreement with Local Predictions](http://arxiv.org/abs/2611.31202v1) | Byzantine Agreement protocols are traditionally designed under worst-case uncertainty about which processes are faulty, coupling t... |
-| `cs.CR` | [Code-Based Message Authentication with Statistical Guarantees via Coordinate Selection and Masking](http://arxiv.org/abs/2611.31178v1) | We study message authentication over a public channel against a computationally unbounded adversary. Motivated by low-complexity a... |
-| `cs.NI` | [Geometry, Reliability, and Spacetime Dynamics of Hyper-Simplex Fractal Networks](http://arxiv.org/abs/2611.31161v1) | Large-scale, delay-tolerant peer-to-peer networks that need strong consistency usually separate naming, routing, consensus, and or... |
-| `cs.CR` | [FATCAT: Fault Injection Attacks Targeting Chip-level Alignment](http://arxiv.org/abs/2611.31129v1) | Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation model... |
+| `cs.DS` | [Making History-Independence-Preserving LL/SC Writable](http://arxiv.org/abs/2611.33067v1) | A randomized implementation of $m$ LL/SC objects for $n$ processes, with at most $k$ outstanding LL() operations each, uses $O(kn ... |
+| `cs.CR` | [A Bernstein-Type Variance-Adaptive PMW Mechanism for DP Query Release](http://arxiv.org/abs/2611.33045v1) | Private Multiplicative Weights (PMW) is a central mechanism for the differentially private release of adaptive linear statistics o... |
+| `cs.CL` | [SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment](http://arxiv.org/abs/2611.33030v1) | Large language models (LLMs) remain vulnerable to jailbreak attacks, where adversaries append optimized suffixes to otherwise beni... |
+| `cs.DC` | [High-Performance Algorithms for Computing the V-BLAST Permutation](http://arxiv.org/abs/2611.33028v1) | We propose two novel and efficient algorithms for computing a column permutation called V-BLAST or an approximation of it. The V-B... |
+| `cs.DC` | [Blockchain-IoT Convergence for Spatiotemporal Data Systems: Challenges, Solutions, and Research Gaps](http://arxiv.org/abs/2611.33019v1) | Blockchain in conjunction with the Internet of Things (IoT) is changing the management of spatiotemporal data in a way that has ne... |
 
 ---
 *Updated automatically via GitHub Actions.*
 
-*Last checked: `2026-11-24`*
+*Last checked: `2026-11-25`*
